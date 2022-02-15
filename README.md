@@ -1,10 +1,10 @@
 # Project3-RPS
-## Rock Paper Scissors
+## Rock Paper Scissors Game
 
 ### Made By : Ahmad Mughrabi
 
 ### Requirements Page
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors#assignment
 
 ### Website Page
 https://9amtech.github.io/Project3-RPS/
